@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6959
     wikipedia: http://en.wikipedia.org/wiki/Ibn_Tufail
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34572#The-Awakening-of-the-Soul
 gutenberg_issued: '2010-12-06'
 gutenberg_type: Text
 identifiers:
