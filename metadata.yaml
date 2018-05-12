@@ -1,0 +1,38 @@
+_repo: The-Awakening-of-the-Soul_34572
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Brönnle, Paul
+    alias: Bronnle, Paul
+    birthdate: 1867
+    gutenberg_agent_id: '37102'
+    url: http://www.gutenberg.org/2009/agents/37102
+covers:
+- cover_type: archival
+  image_path: 34572-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ibn Tufayl, Muhammad ibn 'Abd al-Malik
+    aliases:
+    - Tufail, Ibn
+    - Ibn Tufail
+    - Tufail, Muhammad ibn 'Abd al-Malik Ibn
+    deathdate: 1185
+    gutenberg_agent_id: '6959'
+    url: http://www.gutenberg.org/2009/agents/6959
+    wikipedia: http://en.wikipedia.org/wiki/Ibn_Tufail
+description: ''
+gutenberg_issued: '2010-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34572'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy, Arab -- Early works to 1800'
+- !lcc 'B'
+- !lcsh 'Islamic philosophy -- Early works to 1800'
+title: The Awakening of the Soul
+url: http://www.gutenberg.org/ebooks/34572
